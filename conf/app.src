@@ -1,7 +1,6 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/ilosuna/mylittleforum/archive/refs/tags/2.4.24.zip
+SOURCE_SUM=509fd0d959a62d3c324091e55271cddf23ee7b9230f2e46b7ac47aea2aab141b
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
-SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=false
 SOURCE_EXTRACT=true
